@@ -94,9 +94,6 @@ appgestionuser/
 1. **Cloner le repository**
 ```bash
 git clone <url-du-repository>
-cd gestion-utilisateurs-angenor-blami
+cd gestionappuser
 
-
-Ce guide vous explique comment modifier et personnaliser votre application de gestion des utilisateurs.
-Basé sur la documentation officielle de React et des technologies utilisées.
 
